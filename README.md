@@ -16,7 +16,7 @@ statement = "no type declarations?? no semicolons??? blasphemy"
 - plants
 - coca cola
 
-## On the other hand, I can't stand:
+# On the other hand, I can't stand:
 - coffee
 - pancakes
 - losing in mario kart 
@@ -51,7 +51,7 @@ I asked her what the opposite of an absolute unit is, and she said
 - [ ] Star Trek
 - [X] Ferris Beuller's Day Off
 
-# Don't be hungry, make some honey sriracha chicken
+### Don't be hungry, make some honey sriracha chicken
 - Ingredients
   - 3-4 chicken breasts, diced
   - 1/3 cup corn starch
