@@ -16,12 +16,12 @@ statement = "no type declarations?? no semicolons??? blasphemy"
 - plants
 - coca cola
 
-## on the other hand, I can't stand:
+## On the other hand, I can't stand:
 - coffee
 - pancakes
 - losing in mario kart 
 
-### My favorite artists are:
+## My favorite artists are:
 
 1. [Sammy Rae](https://www.youtube.com/watch?v=x9PNyzWtM7I&list=PLMGQuQq7BA8w9pdUAqBHcsxM-g_oXhK9d)
 2. [Kaleo](https://www.youtube.com/watch?v=0-7IHOXkiV8&list=PLL0cqrhIEUZNchGD1fVwblpI7suwGBvRp)
@@ -51,7 +51,7 @@ I asked her what the opposite of an absolute unit is, and she said
 - [ ] Star Trek
 - [X] Ferris Beuller's Day Off
 
-### Don't be hungry, make some honey sriracha chicken
+# Don't be hungry, make some honey sriracha chicken
 - Ingredients
   - 3-4 chicken breasts, diced
   - 1/3 cup corn starch
