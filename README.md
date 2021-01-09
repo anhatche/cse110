@@ -32,13 +32,9 @@ statement = "no type declarations?? no semicolons??? blasphemy"
 ### Courses
 Besides CSE110, I'm also taking:
 - ECE45
-  - 
 - LIFR1C/CX
-  - for funsies
 - PSYC182
-  - for GE
 - SIO139
-  - another funsie
 
 Totally reach out to me if you're in one of these, I don't know anyone else yet!
 
