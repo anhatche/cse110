@@ -2,16 +2,16 @@
 
 ![pic](bibble.jpeg)
 
-### CSE
+# CSE
 
 ~~cse stresses me out~~ I love CSE! Coding is amazing and fun, **especially** in C++ (ooo pointers?? _heck_ yeah).
 
 Ew look at what Python looks like:
-'''
+```
 statement = "no type declarations?? no semicolons??? blasphemy"
-'''
+```
 
-# I also love:
+### I also love:
 - crosswords
 - plants
 - coca cola
@@ -44,3 +44,5 @@ I asked her what the opposite of an absolute unit is, and she said
 - [ ] Indiana Jones
 - [ ] Star Trek
 - [X] Ferris Beuller's Day Off
+
+Go back to the [top](https://github.com/anhatche/cse110/blob/main/README.md#cse)
