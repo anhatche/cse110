@@ -2,12 +2,9 @@
 
 ![pic](bibble.jpeg)
 
-### Markdown
+### CSE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+~~ cse stresses me out ~~ I love CSE! Coding is amazing and fun, **especially** in C++ (ooo pointers?? _heck_ yeah).
 
 # Header 1
 ## Header 2
