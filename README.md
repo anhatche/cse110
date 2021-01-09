@@ -4,21 +4,26 @@
 
 ### CSE
 
-~~ cse stresses me out ~~ I love CSE! Coding is amazing and fun, **especially** in C++ (ooo pointers?? _heck_ yeah).
+~~cse stresses me out~~ I love CSE! Coding is amazing and fun, **especially** in C++ (ooo pointers?? _heck_ yeah).
 
-# Header 1
-## Header 2
-### Header 3
+# I also love:
+- crosswords
+- plants
+- coca cola
 
-- Bulleted
-- List
+## on the other hand, I can't stand:
+- coffee
+- pancakes
+- losing in mario kart 
 
-1. Numbered
-2. List
+### My favorite artists are:
 
-**Bold** and _Italic_ and `Code` text
+1. [Sammy Rae](https://www.youtube.com/watch?v=x9PNyzWtM7I&list=PLMGQuQq7BA8w9pdUAqBHcsxM-g_oXhK9d)
+2. [Kaleo](https://www.youtube.com/watch?v=0-7IHOXkiV8&list=PLL0cqrhIEUZNchGD1fVwblpI7suwGBvRp)
+3. [Khalid](https://www.youtube.com/watch?v=by3yRdlQvzs&list=PLa5MiwSnbRr1Nb5wDctqKxuY1qN75Soco)
+4. [Hozier](https://www.youtube.com/watch?v=Irw04nbXwxk&list=PL-f5sU8-_h3cJgmR0ZxMvuCtlrnli6xfa)
+5. [Halestorm](https://www.youtube.com/watch?v=YpJAmlnBxoA&list=RDEMBhlpzGCZlXxLMeHLVGJ2lQ&start_radio=1)
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
