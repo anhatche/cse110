@@ -16,7 +16,7 @@ statement = "no type declarations?? no semicolons??? blasphemy"
 - plants
 - coca cola
 
-# On the other hand, I can't stand:
+### On the other hand, I can't stand:
 - coffee
 - pancakes
 - losing in mario kart 
