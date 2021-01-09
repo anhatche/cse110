@@ -30,7 +30,17 @@ statement = "no type declarations?? no semicolons??? blasphemy"
 5. [Halestorm](https://www.youtube.com/watch?v=YpJAmlnBxoA&list=RDEMBhlpzGCZlXxLMeHLVGJ2lQ&start_radio=1)
 
 ### Courses
-Besides CSE110, I'm also taking ECE45, LIFR1C/CX, PSYC182, and SIO139. Totally reach out to me if you're in one of these, I don't know anyone.
+Besides CSE110, I'm also taking:
+- ECE45
+  - 
+- LIFR1C/CX
+  - for funsies
+- PSYC182
+  - for GE
+- SIO139
+  - another funsie
+
+Totally reach out to me if you're in one of these, I don't know anyone else yet!
 
 ### My friend Christina
 I asked her what the opposite of an absolute unit is, and she said
@@ -45,4 +55,23 @@ I asked her what the opposite of an absolute unit is, and she said
 - [ ] Star Trek
 - [X] Ferris Beuller's Day Off
 
-Go back to the [top](https://github.com/anhatche/cse110/blob/main/README.md#cse)
+### Don't be hungry, make some honey sriracha chicken
+- Ingredients
+  - 3-4 chicken breasts, diced
+  - 1/3 cup corn starch
+  - 1 cup water
+  - 2 tbsp sriracha
+  - 5 tbsp soy sauce
+  - 1 tbsp minced garlic
+  - 1/4 cup sugar
+  - 3 tbsp honey
+  - 2 tbsp cold water
+  - 2 tbsp corn starch
+- Steps
+  1. Combine water, sriracha, soy sauce, garlic, sugar, and honey. Stir and bring to a boil.
+  2. Whisk together 2 tbsp corn starch and 2 tbsp water until dissolved. Add to sauce and stir, reduce heat.
+  3. Add chicken and 1/3 cup corn starch to large plastic bag, seal and shake.
+  4. Drizzle pan with oil over medium heat, add chicken and sauté until cooked.
+  5. Add sauce and stir, sprinkle with crushed pepper flakes.
+
+Go back to the [top](https://github.com/anhatche/cse110/blob/main/README.md#welcome-to-my-github-page)
